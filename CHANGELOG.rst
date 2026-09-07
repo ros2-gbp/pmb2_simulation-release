@@ -2,6 +2,16 @@
 Changelog for package pmb2_gazebo
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+4.14.0 (2026-08-24)
+-------------------
+* added pal_configuration_manager
+* Contributors: antoniobrandi
+
+4.13.0 (2026-07-17)
+-------------------
+* start apps using localization manager
+* Contributors: antoniobrandi
+
 4.12.1 (2026-06-22)
 -------------------
 * Add missing dependency ros_gz_sim
